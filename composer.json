@@ -1,0 +1,11 @@
+{
+    "name": "mr-feek/psalm-phar-autoload-test",
+    "require": {
+        "psalm/phar": "dev-mr-feek-patch-1",
+        "psalm/plugin-laravel": "1.4.1"
+    },
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/mr-feek/phar"
+    }]
+}
